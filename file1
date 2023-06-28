@@ -1,0 +1,39 @@
+pipeline {
+        agent any
+           stages {
+              stage
+                   {
+                   step ("git clone repository")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
